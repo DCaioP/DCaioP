@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FF2E2E&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Caio+%F0%9F%91%91;Dev+%2F+Reverse+Engineer+%2F+Nerd+de+carteirinha;Potencial+Infinito+%E2%9A%A1" alt="Caio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FF2E2E&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Caio+%F0%9F%91%91;Dev+%2F+Reverse+Engineer+%2F+Nerd;Workaholic;Potencial+Infinito+%E2%9A%A1" alt="Caio" />
 
 <img src="./assets/deku-notes.gif" width="560" alt="anotando tudo, sempre" />
 
 <br/>
 
-**"Escreve tudo. Estuda tudo. Quebra tudo. Reconstrói melhor."**
+**"Construa. Destrua. E reconstrua melhor."**
 
 <br/>
 
@@ -20,32 +20,30 @@
 ## 📓 Caderno de anotações
 
 ```yaml
-nome:      Caio Pontes
-alias:     DCaioP
-cargo:     TI @ Kromos
-foco:      integração de ERP, engenharia reversa, automação e ferramentas internas
-manias:    ricing no Hyprland, dark mode + vermelho, anime em todo profile
-estudando: sempre — se tem doc, eu leio; se não tem, eu faço a doc
-motto:     "Potencial Infinito"
+nome: Caio Pontes
+alias: DCaioP
+foco: Integração de ERP, Engenharia reversa, Automação e ferramentas internas
 ```
 
-Passo os dias entre **Delphi legado**, **bancos gigantes** e **coisas que ninguém documentou** — e saio do outro lado com um script, uma API ou um relatório que resolve.
-Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma.
+Trabalho todos os dias com **Delphi legado**, **bancos gigantes** e **coisas que ninguém documentou** - e saio do outro lado com um script, uma API ou um relatório que resolve problemas reais.
+Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma, sou viciado em resolver problemas.
 
 ---
 
-## 🔥 Eu commito. Muito.
+## 🔥 Commits Stats
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=DCaioP&theme=highcontrast&hide_border=true&background=0D1117&stroke=FF2E2E&ring=FF2E2E&fire=FF6B6B&currStreakLabel=FF2E2E&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DCaioP&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF2E2E&icon_color=FF2E2E&text_color=C9D1D9&rank_icon=github" alt="stats" />
+<img height="200" src="https://awesome-github-stats.azurewebsites.net/user-stats/DCaioP?cardType=level&theme=github-dark&preferLogin=false&Background=0d1117&Border=ff2e2e&Title=ff2e2e&Text=c9d1d9&Icon=ff2e2e&Ring=ff2e2e" alt="stats" />
+<img height="200" src="https://streak-stats.demolab.com?user=DCaioP&hide_border=true&background=0D1117&stroke=FF2E2E&ring=FF2E2E&fire=FF6B6B&currStreakLabel=FF2E2E&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&excludeDaysLabel=8B949E" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DCaioP&bg_color=0D1117&color=C9D1D9&line=FF2E2E&point=FF6B6B&area_color=FF2E2E&area=true&hide_border=true&custom_title=Ritmo%20de%20commits" alt="activity graph" width="98%" />
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/DCaioP/DCaioP/output/snake.svg" alt="snake eating my contributions" width="98%" />
+<img src="https://ghchart.rshah.org/ff2e2e/DCaioP" alt="contribuicoes" width="98%" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCaioP&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF2E2E&text_color=C9D1D9" alt="top langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DCaioP&bg_color=0D1117&color=C9D1D9&line=FF2E2E&point=FF6B6B&area_color=FF2E2E&area=true&hide_border=true&custom_title=Ritmo%20de%20commits" alt="ritmo de commits" width="98%" />
+
+<img src="https://raw.githubusercontent.com/DCaioP/DCaioP/output/snake.svg" alt="snake" width="98%" />
 
 </div>
 
@@ -77,12 +75,12 @@ Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma.
 
 ## 📌 No estúdio agora
 
-| Projeto | O que é |
-| :--- | :--- |
-| [`styles`](https://github.com/DCaioP/styles) | Meu setup visual — VSCode, Waybar liquid glass, GLSL e afins |
-| [`aeon-keyboard/branding`](https://github.com/aeon-keyboard/branding) | Identidade visual do projeto: logo, paleta, tipografia |
-| [`rama`](https://github.com/DCaioP/rama) | C++ · brincando com estrutura e performance |
-| `reveng-*` | Engenharia reversa de sistemas legados — o que dá pra abrir, eu abro |
+| Projeto                                                               | O que é                                                              |
+| :-------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| [`styles`](https://github.com/DCaioP/styles)                          | Meu setup visual — VSCode, Waybar liquid glass, GLSL e afins         |
+| [`aeon-keyboard/branding`](https://github.com/aeon-keyboard/branding) | Identidade visual do projeto: logo, paleta, tipografia               |
+| [`rama`](https://github.com/DCaioP/rama)                              | C++ · brincando com estrutura e performance                          |
+| `reveng-*`                                                            | Engenharia reversa de sistemas legados — o que dá pra abrir, eu abro |
 
 ---
 
@@ -92,6 +90,6 @@ Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma.
 
 <br/><br/>
 
-***"Plus Ultra"*** — sempre além. 🔴
+**_"Supere seus limites"_**
 
 </div>
