@@ -34,16 +34,9 @@ Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma, sou vi
 
 <div align="center">
 
-<img height="200" src="https://awesome-github-stats.azurewebsites.net/user-stats/DCaioP?cardType=level&theme=github-dark&preferLogin=false&Background=0d1117&Border=ff2e2e&Title=ff2e2e&Text=c9d1d9&Icon=ff2e2e&Ring=ff2e2e" alt="stats" />
-<img height="200" src="https://streak-stats.demolab.com?user=DCaioP&hide_border=true&background=0D1117&stroke=FF2E2E&ring=FF2E2E&fire=FF6B6B&currStreakLabel=FF2E2E&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&excludeDaysLabel=8B949E" alt="streak" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/ff2e2e/DCaioP" alt="contribuicoes" width="98%" />
+<img src="https://raw.githubusercontent.com/DCaioP/DCaioP/output/snake.svg" alt="snake" width="98%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DCaioP&bg_color=0D1117&color=C9D1D9&line=FF2E2E&point=FF6B6B&area_color=FF2E2E&area=true&hide_border=true&custom_title=Ritmo%20de%20commits" alt="ritmo de commits" width="98%" />
-
-<img src="https://raw.githubusercontent.com/DCaioP/DCaioP/output/snake.svg" alt="snake" width="98%" />
 
 </div>
 
