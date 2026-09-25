@@ -59,7 +59,7 @@ Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma, sou vi
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=FF2E2E)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FF2E2E)
 ![Hyprland](https://img.shields.io/badge/Hyprland-0D1117?style=flat-square&logo=wayland&logoColor=FF2E2E)
-![Neovim](https://img.shields.io/badge/VSCode-0D1117?style=flat-square&logo=visualstudiocode&logoColor=FF2E2E)
+![VSCode](https://img.shields.io/badge/VSCode-0D1117?style=flat-square&logo=visualstudiocode&logoColor=FF2E2E)
 ![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=flat-square&logo=probot&logoColor=FF2E2E)
 
 </div>
