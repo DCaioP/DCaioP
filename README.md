@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FF2E2E&center=true&vCenter=true&width=720&lines=Ol%C3%A1%2C+eu+sou+o+Caio+%F0%9F%91%91;Dev+%2F+Reverse+Engineer+%2F+Nerd;Workaholic;Potencial+Infinito+%E2%9A%A1" alt="Caio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FF2E2E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Caio+%F0%9F%91%91;Dev+%2F+Reverse+Engineer+%2F+Nerd;Workaholic;Infinite+Potential+%E2%9A%A1" alt="Caio" />
 
-<img src="./assets/deku-notes.gif" width="560" alt="anotando tudo, sempre" />
+<img src="./assets/deku-notes.gif" width="560" alt="always taking notes" />
 
 <br/>
 
-**"Construa. Destrua. E reconstrua melhor."**
+**"Build it. Break it. Rebuild it better."**
 
 <br/>
 
@@ -17,16 +17,16 @@
 
 </div>
 
-## 📓 Caderno de anotações
+## 📓 Notebook
 
 ```yaml
-nome: Caio Pontes
+name: Caio Pontes
 alias: DCaioP
-foco: Integração de ERP, Engenharia reversa, Automação e ferramentas internas
+focus: ERP integration, Reverse engineering, Automation and internal tools
 ```
 
-Trabalho todos os dias com **Delphi legado**, **bancos gigantes** e **coisas que ninguém documentou** - e saio do outro lado com um script, uma API ou um relatório que resolve problemas reais.
-Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma, sou viciado em resolver problemas.
+Every day I work with **legacy Delphi**, **massive databases** and **things nobody ever documented** - and come out the other side with a script, an API or a report that solves real problems.
+If the system doesn't expose it, I crack it open. If there's no interface, I write one. I'm addicted to solving problems.
 
 ---
 
@@ -66,23 +66,23 @@ Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma, sou vi
 
 ---
 
-## 📌 No estúdio agora
+## 📌 In the workshop right now
 
-| Projeto                                                               | O que é                                                              |
+| Project                                                               | What it is                                                           |
 | :-------------------------------------------------------------------- | :------------------------------------------------------------------- |
-| [`styles`](https://github.com/DCaioP/styles)                          | Meu setup visual — VSCode, Waybar liquid glass, GLSL e afins         |
-| [`aeon-keyboard/branding`](https://github.com/aeon-keyboard/branding) | Identidade visual do projeto: logo, paleta, tipografia               |
-| [`rama`](https://github.com/DCaioP/rama)                              | C++ · brincando com estrutura e performance                          |
-| `reveng-*`                                                            | Engenharia reversa de sistemas legados — o que dá pra abrir, eu abro |
+| [`styles`](https://github.com/DCaioP/styles)                          | My visual setup — VSCode, Waybar liquid glass, GLSL and friends      |
+| [`aeon-keyboard/branding`](https://github.com/aeon-keyboard/branding) | The project's visual identity: logo, palette, typography             |
+| [`rama`](https://github.com/DCaioP/rama)                              | C++ · playing with structure and performance                         |
+| `reveng-*`                                                            | Reverse engineering legacy systems — if it can be opened, I open it   |
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DCaioP&style=for-the-badge&color=FF2E2E&label=VISITANTES" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=DCaioP&style=for-the-badge&color=FF2E2E&label=VISITORS" alt="views" />
 
 <br/><br/>
 
-**_"Supere seus limites"_**
+**_"Go beyond your limits. Plus Ultra!"_**
 
 </div>
