@@ -36,7 +36,7 @@ Se o sistema não expõe, eu abro. Se não tem interface, eu escrevo uma, sou vi
 
 <img src="https://raw.githubusercontent.com/DCaioP/DCaioP/output/snake.svg" alt="snake" width="98%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DCaioP&bg_color=0D1117&color=C9D1D9&line=FF2E2E&point=FF6B6B&area_color=FF2E2E&area=true&hide_border=true&custom_title=Ritmo%20de%20commits" alt="ritmo de commits" width="98%" />
+<img src="https://raw.githubusercontent.com/DCaioP/DCaioP/output/activity.svg" alt="commit rhythm" width="98%" />
 
 </div>
 

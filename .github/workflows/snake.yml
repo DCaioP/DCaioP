@@ -14,6 +14,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake-gif
@@ -21,6 +23,11 @@ jobs:
           github_user_name: DCaioP
           outputs: |
             dist/snake.svg?palette=github-dark&color_snake=#FF2E2E&color_dots=#161B22,#5A0F0F,#8B0000,#D32020,#FF2E2E
+
+      - name: Generate commit rhythm graph
+        run: python3 scripts/activity_graph.py DCaioP dist/activity.svg 60
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
